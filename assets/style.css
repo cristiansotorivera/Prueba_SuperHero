@@ -1,8 +1,15 @@
-body {
+  body {
     margin: 0;
     padding: 0;
+   
+     background-image: url('./img/background.png'); 
+     background-size: cover;
+     background-position: center; 
+     background-repeat: no-repeat; 
+  
   }
 
-  .img-fluid{
-    border-radius: 50px;
-  }
+ main {
+  padding-top: 100px;
+ }
+
